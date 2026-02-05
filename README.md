@@ -1,6 +1,6 @@
 ## Hi there 😎
 
-Me chamo Rogério Guimarães, sou Desenvolvedor Front End, e me encaminhando para ser Full Stack. Atualmente estou aprendendo e criando projetos com:
+Me chamo Rogério Guimarães, sou Desenvolvedor Front End, e me encaminhando para ser Full Stack. Focado em soluções escaláveis com Node.js e React e criando projetos com:
 <br>
 <br>
 
