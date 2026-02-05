@@ -15,6 +15,3 @@ Me chamo Rogério Guimarães, sou Desenvolvedor Front End, e me encaminhando par
 <a href="https://www.linkedin.com/in/rogerio-guimaraes-fernandes/">Clique aqui para ver meu Linkedin</a> <br><br>
 <a href="https://www.facebook.com/roger.gf95)">Clique aqui para ver meu Facebook</a> <img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
 
-[![Veja meus Status](https://github-readme-stats.vercel.app/api?username=RogerioHetfield)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioHetfield)](https://github.com/anuraghazra/github-readme-stats)
